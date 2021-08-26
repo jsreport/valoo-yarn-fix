@@ -1,4 +1,4 @@
-declare module "valoo" {
+declare module "valoo-yarn-fix" {
   namespace valoo {
     type Disposer = () => void;
     interface Observable<T> {
