@@ -1,0 +1,14 @@
+{
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "<h1 align=center>🐻 valoo</h1> <p align=center><em>just the bare necessities of state management.</em></p> <p align=center><img src=\"https://i.imgur.com/Ke0BCSf.jpg\" width=\"572\"></p>",
+  "devDependencies": {
+    "microbundle": "^0.5.1"
+  },
+  "license": "Apache-2.0",
+  "main": "dist/valoo.js",
+  "module": "valoo.mjs",
+  "name": "valoo-yarn-fix",
+  "types": "./valoo.d.ts",
+  "version": "2.1.0"
+}
